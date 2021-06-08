@@ -1,2 +1,2 @@
-# Unsupervised-Machine-Learning-Algorithm
+# Dimensionality Reduction techniques
 House prices prediction
